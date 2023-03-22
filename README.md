@@ -7,6 +7,8 @@ It is simple for old people to understand the images of what it uses and for the
 
 This idea could be implemented as a responsive web application that has the following features:
 
+    => top on emergence button click call to hospital and relatives
+
     => Medication management: The website provides instructions on medication and online ordering.
 
     => Diet guide: suggestions for controlling appetite.
