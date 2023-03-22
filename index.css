@@ -434,3 +434,14 @@ button:hover {
     font-size: 40px;
     width: 60px;
 }
+
+.emergency {
+    height: 60px;
+    width: 90vw;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+}
