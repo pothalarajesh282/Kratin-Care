@@ -1,5 +1,11 @@
 let form0 = document.getElementById("form");
 let form1 = document.getElementById("form1");
+let emergencycall = document.getElementById("emergencycall");
+
+emergencycall.onclick = function() {
+    alert("Calling... your near hospital and ambulance");
+
+}
 
 form0.addEventListener("submit", (event) => {
     event.preventDefault();
